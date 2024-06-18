@@ -5,7 +5,7 @@ const WeatherDisplay = () => {
   return (
     <>
       <Search />
-      Weather
+      <div className="text-center text-3xl">Weather</div>
     </>
   );
 };
