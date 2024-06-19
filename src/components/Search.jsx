@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { CiSearch, CiLocationOn } from "react-icons/ci";
+import { CiSearch } from "react-icons/ci";
 
 const Search = ({ setQuery, units, setUnits }) => {
   const [city, setCity] = useState("");
@@ -27,10 +27,6 @@ const Search = ({ setQuery, units, setUnits }) => {
           size={25}
           onClick={handleSearchClick}
           className="font-bold transition ease-in text-white hover:scale-125 duration-200 cursor-pointer"
-        />
-        <CiLocationOn
-          size={25}
-          className="traniton ease-in text-white hover:scale-125 duration-200 cursor-pointer"
         />
       </div>
       <div className="flex justify-center items-center w-1/4 contrast-less:text-xl text-white">
