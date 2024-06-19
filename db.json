@@ -1,14 +1,19 @@
 {
   "favorites": [
     {
-      "id": "Delhi",
-      "city": "Delhi",
-      "country": "IN"
-    },
-    {
       "id": "Spain",
       "city": "Spain",
       "country": "ES"
+    },
+    {
+      "id": "Spin",
+      "city": "Spin",
+      "country": "CH"
+    },
+    {
+      "id": "Chennai",
+      "city": "Chennai",
+      "country": "IN"
     }
   ]
 }
