@@ -1,0 +1,34 @@
+{
+  "favorites": [
+    {
+      "id": "Delhi",
+      "city": "Delhi",
+      "country": "IN"
+    },
+    {
+      "id": "Bengaluru",
+      "city": "Bengaluru",
+      "country": "IN"
+    },
+    {
+      "id": "Chennai",
+      "city": "Chennai",
+      "country": "IN"
+    },
+    {
+      "id": "London",
+      "city": "London",
+      "country": "GB"
+    },
+    {
+      "id": "London",
+      "city": "London",
+      "country": "GB"
+    },
+    {
+      "id": "Pune",
+      "city": "Pune",
+      "country": "IN"
+    }
+  ]
+}
